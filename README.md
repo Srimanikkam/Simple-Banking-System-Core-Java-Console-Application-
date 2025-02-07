@@ -14,4 +14,3 @@ This is a simple Java-based banking system that allows users to perform basic ba
 - Object-Oriented Programming (OOP)  
 - Scanner (for user input)  
 
-## 📂 Project Structure
